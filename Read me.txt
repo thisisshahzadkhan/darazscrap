@@ -1,0 +1,7 @@
+This is an online shopping data scraper. 
+The current prototype is tried and tested on 'daraz.pk' website. 
+It scraps all the best selling items catagory vise.
+This approach has been motivated by many researchers.
+
+Here is the Git repository link of the prototype:
+https://github.com/lost-vetern/darazscrap 
