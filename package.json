@@ -15,7 +15,7 @@
     "cheerio-advanced-selectors": "^2.0.1",
     "ejs": "^3.0.1",
     "express": "^4.17.1",
-    "express-fileupload": "^1.1.6",
+    "express-fileupload": "^1.1.9",
     "mongoose": "^5.9.2",
     "puppeteer": "^2.1.1",
     "puppeteer-autoscroll-down": "^0.1.2"
